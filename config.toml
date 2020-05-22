@@ -1,4 +1,4 @@
-title = "Hi, I'm Geoff"
+title = "Hi, I'm Geoff!"
 baseURL = "/hugo-website"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
